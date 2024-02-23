@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.sersoluciones.flutter_pos_printer_platform-mergeReleaseResources-10:/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "/home/mauricio/.gradle/caches/transforms-3/351773d2c76974bb6cdd4e897987b5ba/transformed/appcompat-1.0.0/res/values-watch-v21/values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.sersoluciones.flutter_pos_printer_platform-merged_res-12:/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "/home/mauricio/.gradle/caches/transforms-3/351773d2c76974bb6cdd4e897987b5ba/transformed/appcompat-1.0.0/res/values-watch-v21/values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        }
+    ]
+}

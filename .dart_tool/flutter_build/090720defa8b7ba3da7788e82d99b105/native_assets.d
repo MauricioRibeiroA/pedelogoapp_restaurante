@@ -1,0 +1,1 @@
+ /home/mauricio/Documents/pedelogoapp_restaurante/.dart_tool/flutter_build/090720defa8b7ba3da7788e82d99b105/native_assets.yaml: 

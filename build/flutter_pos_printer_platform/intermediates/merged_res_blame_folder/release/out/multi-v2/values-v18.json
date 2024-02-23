@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.sersoluciones.flutter_pos_printer_platform-mergeReleaseResources-10:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/home/mauricio/.gradle/caches/transforms-3/351773d2c76974bb6cdd4e897987b5ba/transformed/appcompat-1.0.0/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.sersoluciones.flutter_pos_printer_platform-merged_res-12:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/home/mauricio/.gradle/caches/transforms-3/351773d2c76974bb6cdd4e897987b5ba/transformed/appcompat-1.0.0/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

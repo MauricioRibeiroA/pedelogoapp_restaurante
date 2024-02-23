@@ -1,0 +1,16 @@
+com.sersoluciones.flutter_pos_printer_platform-appcompat-1.0.0-0 /home/mauricio/.gradle/caches/transforms-3/351773d2c76974bb6cdd4e897987b5ba/transformed/appcompat-1.0.0/res
+com.sersoluciones.flutter_pos_printer_platform-jetified-window-1.0.0-beta04-1 /home/mauricio/.gradle/caches/transforms-3/36b6c050b3fd8e9d77a64a98979e6d14/transformed/jetified-window-1.0.0-beta04/res
+com.sersoluciones.flutter_pos_printer_platform-jetified-annotation-experimental-1.1.0-2 /home/mauricio/.gradle/caches/transforms-3/5acbbd29ceac7bc15e8d8984379a00a0/transformed/jetified-annotation-experimental-1.1.0/res
+com.sersoluciones.flutter_pos_printer_platform-jetified-window-java-1.0.0-beta04-3 /home/mauricio/.gradle/caches/transforms-3/9dca5cc994d4f637ab60869d46e91e3f/transformed/jetified-window-java-1.0.0-beta04/res
+com.sersoluciones.flutter_pos_printer_platform-coordinatorlayout-1.0.0-4 /home/mauricio/.gradle/caches/transforms-3/acc7f4f8da67d20bbde4040dd57f0442/transformed/coordinatorlayout-1.0.0/res
+com.sersoluciones.flutter_pos_printer_platform-core-1.6.0-5 /home/mauricio/.gradle/caches/transforms-3/e136f97cee072eba8f8aa46ba2184080/transformed/core-1.6.0/res
+com.sersoluciones.flutter_pos_printer_platform-main-6 /home/mauricio/.pub-cache/hosted/pub.dev/flutter_pos_printer_platform-1.4.2/android/src/main/res
+com.sersoluciones.flutter_pos_printer_platform-release-7 /home/mauricio/.pub-cache/hosted/pub.dev/flutter_pos_printer_platform-1.4.2/android/src/release/res
+com.sersoluciones.flutter_pos_printer_platform-pngs-8 /home/mauricio/Documents/pedelogoapp_restaurante/build/flutter_pos_printer_platform/generated/res/pngs/release
+com.sersoluciones.flutter_pos_printer_platform-resValues-9 /home/mauricio/Documents/pedelogoapp_restaurante/build/flutter_pos_printer_platform/generated/res/resValues/release
+com.sersoluciones.flutter_pos_printer_platform-rs-10 /home/mauricio/Documents/pedelogoapp_restaurante/build/flutter_pos_printer_platform/generated/res/rs/release
+com.sersoluciones.flutter_pos_printer_platform-mergeReleaseResources-11 /home/mauricio/Documents/pedelogoapp_restaurante/build/flutter_pos_printer_platform/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.sersoluciones.flutter_pos_printer_platform-mergeReleaseResources-12 /home/mauricio/Documents/pedelogoapp_restaurante/build/flutter_pos_printer_platform/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.sersoluciones.flutter_pos_printer_platform-merged_res-13 /home/mauricio/Documents/pedelogoapp_restaurante/build/flutter_pos_printer_platform/intermediates/merged_res/release
+com.sersoluciones.flutter_pos_printer_platform-packaged_res-14 /home/mauricio/Documents/pedelogoapp_restaurante/build/flutter_star_prnt/intermediates/packaged_res/release
+com.sersoluciones.flutter_pos_printer_platform-packaged_res-15 /home/mauricio/Documents/pedelogoapp_restaurante/build/network_info_plus/intermediates/packaged_res/release

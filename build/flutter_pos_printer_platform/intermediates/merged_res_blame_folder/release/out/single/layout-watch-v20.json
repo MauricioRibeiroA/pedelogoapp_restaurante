@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.sersoluciones.flutter_pos_printer_platform-merged_res-12:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "com.sersoluciones.flutter_pos_printer_platform-appcompat-1.0.0-0:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "com.sersoluciones.flutter_pos_printer_platform-merged_res-12:/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "com.sersoluciones.flutter_pos_printer_platform-appcompat-1.0.0-0:/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    }
+]
