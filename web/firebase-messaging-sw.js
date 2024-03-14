@@ -2,12 +2,12 @@ importScripts("https://www.gstatic.com/firebasejs/7.20.0/firebase-app.js");
 importScripts("https://www.gstatic.com/firebasejs/7.20.0/firebase-messaging.js");
 
 firebase.initializeApp({
-  apiKey: "AIzaSyAMLk1-dj8g0qCqU3DkxLKHbrT0VhK5EeQ",
-  authDomain: "e-food-9e6e3.firebaseapp.com",
-  projectId: "e-food-9e6e3",
-  storageBucket: "e-food-9e6e3.appspot.com",
-  messagingSenderId: "410522356318",
-  appId: "1:410522356318:web:c0983d7d2f5e3e933dc2cf",
+  apiKey: "AIzaSyAeliEuUDxVV3-nkO-Ell9fFcifr9jtQtU",
+  authDomain: "pede-logo-99040.firebaseapp.com",
+  projectId: "pede-logo-99040",
+  storageBucket: "pede-logo-99040.appspot.com",
+  messagingSenderId: "1025418518982",
+  appId: "1:1025418518982:web:6b3344421699a0bfa752c7",
   databaseURL: "...",
 });
 
